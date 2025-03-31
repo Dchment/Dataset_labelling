@@ -1,4 +1,4 @@
-import sys  # 系统内置类
+import sys
 from PyQt5.QtCore import * # 主要包含了我们常用的一些类，汇总到了一块
 from PyQt5.QtGui import *
 from PyQt5.QtWidgets import *
